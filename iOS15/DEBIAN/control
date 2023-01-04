@@ -1,0 +1,9 @@
+Package: com.Abd.iOS15
+Name: iOS 9 to iOS 15
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This theme will turn your basic iOS 9 to the amazing iOS 15 icons!
+Author: Abdollh2019
+Maintainer: Abdollh2019
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
